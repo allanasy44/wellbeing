@@ -6,9 +6,6 @@
 * **Seamless Appointment**: Book appointments directly with your doctor, and say goodbye to phone tag.
 * **Virtual Consultation**: Skip the wait and get expert healthcare consultations with a quick video visit and stay connected through **offline-first** instant messaging.
 
-## AI-powered symptom analysis Demo ▶️ 
-
-https://github.com/user-attachments/assets/3225891b-4ae1-4eee-831a-ef8ca6283c6f
 
 
 
