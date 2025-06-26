@@ -1,7 +1,8 @@
 import { useEffect } from 'react';
 import { Stack } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
-import { Platform } from 'react-native';
+import { Platform } from 'react-native'
+import { useFrameworkReady } from '@/hooks/useFrameworkReady';
 
 // Mock the framework ready hook for web compatibility
 const useFrameworkReady = () => {
